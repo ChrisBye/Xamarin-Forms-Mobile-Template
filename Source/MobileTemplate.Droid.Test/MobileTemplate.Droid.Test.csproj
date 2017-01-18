@@ -81,6 +81,10 @@
     <AndroidAsset Include="Assets\Text\asset_sample_text_file.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MobileTemplate.Core.Test\MobileTemplate.Core.Test.csproj">
+      <Project>{eb9fb050-491f-4bcf-81bc-3b7615286eba}</Project>
+      <Name>MobileTemplate.Core.Test</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MobileTemplate.Core\MobileTemplate.Core.csproj">
       <Project>{a7439e6b-2866-48f4-a696-85cc20a99f9e}</Project>
       <Name>MobileTemplate.Core</Name>

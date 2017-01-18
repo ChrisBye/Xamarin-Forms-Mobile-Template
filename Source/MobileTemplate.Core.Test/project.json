@@ -1,0 +1,18 @@
+﻿{
+  "testRunner": "xunit",
+  "supports": {},
+  "dependencies": {
+    "Autofac": "4.3.0",
+    "HockeySDK.Xamarin": "4.1.0",
+    "NETStandard.Library": "1.6.0",
+    "ReactiveProperty": "3.4.0",
+    "Xamarin.Forms": "2.3.3.180",
+    "xunit": "2.1.0",
+    "xunit.runner.visualstudio": "2.1.0"
+  },
+  "frameworks": {
+    "netstandard1.1": {
+      "imports": "portable-net45+wpa81+wp8+win8"
+    }
+  }
+}
