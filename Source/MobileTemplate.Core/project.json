@@ -1,15 +1,14 @@
-{
+﻿{
   "supports": {},
   "dependencies": {
     "Autofac": "4.3.0",
-    "HockeySDK.Core": "4.1.5",
+    "HockeySDK.Xamarin": "4.1.0",
     "ReactiveProperty": "3.4.0",
     "Xamarin.Forms": "2.3.3.180",
-    "NETStandard.Library": "1.6.0",
-    "Microsoft.NETCore.Portable.Compatibility": "1.0.1"
+    "NETStandard.Library": "1.6.0"
   },
   "frameworks": {
-    "netstandard1.6": {
+    "netstandard1.1": {
       "imports": "portable-net45+wpa81+wp8+win8"
     }
   }
